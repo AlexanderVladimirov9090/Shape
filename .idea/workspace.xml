@@ -1,10 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3f79120e-b3b4-4ee6-a96b-1a2301b0903b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Java_Shape/Tetrahedron.class" afterPath="$PROJECT_DIR$/out/production/Java_Shape/Tetrahedron.class" />
+    <list default="true" id="dabab818-541a-4d73-89a7-6ec0b9b3f2ba" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProjectShape.iml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Area.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Volume.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Circle.java" afterPath="$PROJECT_DIR$/src/Circle.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Cube.java" afterPath="$PROJECT_DIR$/src/Cube.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Shape.java" afterPath="$PROJECT_DIR$/src/Shape.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TestShape.java" afterPath="$PROJECT_DIR$/src/TestShape.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Tetrahedron.java" afterPath="$PROJECT_DIR$/src/Tetrahedron.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ThreeDimensional.java" afterPath="$PROJECT_DIR$/src/ThreeDimensional.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TwoDimensional.java" afterPath="$PROJECT_DIR$/src/TwoDimensional.java" />
     </list>
-    <ignored path="Java_Shape.iws" />
+    <ignored path="ProjectShape.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -21,15 +38,15 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
-    <favorites_list name="Java_Shape" />
+    <favorites_list name="ProjectShape" />
   </component>
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="TestShape.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/TestShape.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6448276">
-              <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.87931037">
+              <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -40,7 +57,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -55,16 +72,16 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Sphere.java" />
-        <option value="$PROJECT_DIR$/src/Cube.java" />
-        <option value="$PROJECT_DIR$/src/Calculate.java" />
-        <option value="$PROJECT_DIR$/src/ThreeDimensional.java" />
-        <option value="$PROJECT_DIR$/src/TwoDimensional.java" />
-        <option value="$PROJECT_DIR$/src/Area.java" />
-        <option value="$PROJECT_DIR$/src/Shape.java" />
-        <option value="$PROJECT_DIR$/src/TestShape.java" />
-        <option value="$PROJECT_DIR$/src/Tetrahedron.java" />
         <option value="$PROJECT_DIR$/src/Volume.java" />
+        <option value="$PROJECT_DIR$/src/TwoDimensionalInter.java" />
+        <option value="$PROJECT_DIR$/src/ThreeDimensionalInter.java" />
+        <option value="$PROJECT_DIR$/src/Tetrahedron.java" />
+        <option value="$PROJECT_DIR$/src/Circle.java" />
+        <option value="$PROJECT_DIR$/src/Cube.java" />
+        <option value="$PROJECT_DIR$/src/TwoDimensional.java" />
+        <option value="$PROJECT_DIR$/src/Shape.java" />
+        <option value="$PROJECT_DIR$/src/ThreeDimensional.java" />
+        <option value="$PROJECT_DIR$/src/TestShape.java" />
       </list>
     </option>
   </component>
@@ -79,7 +96,7 @@
     <option name="width" value="1296" />
     <option name="height" value="1000" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -104,32 +121,34 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Java_Shape" />
+              <option name="myItemId" value="ProjectShape" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Java_Shape" />
+              <option name="myItemId" value="ProjectShape" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Shape_Project" />
+              <option name="myItemId" value="ProjectShape" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Java_Shape" />
+              <option name="myItemId" value="ProjectShape" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Shape_Project" />
+              <option name="myItemId" value="ProjectShape" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -139,19 +158,15 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ShapeProject" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="ignore_missing_gitignore" value="true" />
   </component>
-  <component name="RunManager" selected="Application.ShapeProgram">
+  <component name="RunManager" selected="Application.Unnamed">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
@@ -468,7 +483,7 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Java_Shape" />
+      <module name="ProjectShape" />
       <envs />
       <method />
     </configuration>
@@ -555,6 +570,11 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -569,7 +589,7 @@
     <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
       <method />
     </configuration>
-    <configuration default="false" name="ShapeProgram" type="Application" factoryName="Application">
+    <configuration default="false" name="Unnamed" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="TestShape" />
       <option name="VM_PARAMETERS" value="" />
@@ -580,12 +600,12 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Java_Shape" />
+      <module name="ProjectShape" />
       <envs />
       <method />
     </configuration>
     <list size="1">
-      <item index="0" class="java.lang.String" itemvalue="Application.ShapeProgram" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Unnamed" />
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
@@ -594,29 +614,18 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3f79120e-b3b4-4ee6-a96b-1a2301b0903b" name="Default" comment="" />
-      <created>1457282786457</created>
+      <changelist id="dabab818-541a-4d73-89a7-6ec0b9b3f2ba" name="Default" comment="" />
+      <created>1457356690814</created>
       <option name="number" value="Default" />
-      <updated>1457282786457</updated>
-      <workItem from="1457345397977" duration="1495000" />
+      <updated>1457356690814</updated>
+      <workItem from="1457356693738" duration="1923000" />
+      <workItem from="1457359004267" duration="1558000" />
+      <workItem from="1457362146746" duration="1511000" />
     </task>
-    <task id="LOCAL-00001" summary="Area Inteface">
-      <created>1457343338683</created>
-      <option name="number" value="00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1457343338683</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Area + Volume Interface">
-      <created>1457346890716</created>
-      <option name="number" value="00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1457346890716</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1495000" />
+    <option name="totallyTimeSpent" value="4992000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
@@ -624,21 +633,21 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298731" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298731" sideWeight="0.4935275" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32868218" sideWeight="0.50294983" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3298731" sideWeight="0.50323623" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3298731" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32756633" sideWeight="0.49705014" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3298731" sideWeight="0.49676377" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298731" sideWeight="0.487055" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39907727" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -658,11 +667,6 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Area Inteface" />
-    <MESSAGE value="Area + Volume Interface" />
-    <option name="LAST_COMMIT_MESSAGE" value="Area + Volume Interface" />
-  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
@@ -672,65 +676,144 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Area.java">
+    <entry file="file://$PROJECT_DIR$/src/Shape.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="3" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
           <folding>
-            <marker date="1457346560143" expanded="true" signature="0:41" placeholder="/**...*/" />
+            <marker date="1457363581469" expanded="true" signature="0:44" placeholder="/**...*/" />
+            <marker date="1457363581469" expanded="false" signature="128:139" placeholder=" { " />
+            <marker date="1457363581469" expanded="false" signature="161:167" placeholder=" }" />
+            <marker date="1457363581469" expanded="false" signature="193:204" placeholder=" { " />
+            <marker date="1457363581469" expanded="false" signature="221:227" placeholder=" }" />
+            <marker date="1457363581469" expanded="true" signature="253:264" placeholder=" { " />
+            <marker date="1457363581469" expanded="true" signature="273:279" placeholder=" }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Shape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+          <folding>
+            <marker date="1457363581469" expanded="true" signature="0:44" placeholder="/**...*/" />
+            <marker date="1457363581469" expanded="false" signature="128:139" placeholder=" { " />
+            <marker date="1457363581469" expanded="false" signature="161:167" placeholder=" }" />
+            <marker date="1457363581469" expanded="false" signature="193:204" placeholder=" { " />
+            <marker date="1457363581469" expanded="false" signature="221:227" placeholder=" }" />
+            <marker date="1457363581469" expanded="true" signature="253:264" placeholder=" { " />
+            <marker date="1457363581469" expanded="true" signature="273:279" placeholder=" }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/util/Formatter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33275864">
+          <caret line="4301" column="0" selection-start-line="4301" selection-start-column="0" selection-end-line="4301" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Square.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.08793104">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+          <folding>
+            <marker date="1457356617582" expanded="true" signature="0:44" placeholder="/**...*/" />
+            <marker date="1457356617582" expanded="false" signature="123:133" placeholder=" { " />
+            <marker date="1457356617582" expanded="false" signature="158:164" placeholder=" }" />
+            <marker date="1457356617582" expanded="false" signature="192:202" placeholder=" { " />
+            <marker date="1457356617582" expanded="false" signature="213:219" placeholder=" }" />
+            <marker date="1457356617582" expanded="false" signature="259:269" placeholder=" { " />
+            <marker date="1457356617582" expanded="false" signature="294:300" placeholder=" }" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Tetrahedron.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="24" column="49" selection-start-line="24" selection-start-column="49" selection-end-line="24" selection-end-column="49" />
-          <folding />
+        <state vertical-scroll-proportion="0.08793104">
+          <caret line="3" column="49" selection-start-line="3" selection-start-column="49" selection-end-line="3" selection-end-column="49" />
+          <folding>
+            <marker date="1457359165418" expanded="true" signature="0:41" placeholder="/**...*/" />
+            <marker date="1457359165418" expanded="false" signature="146:156" placeholder=" { " />
+            <marker date="1457359165418" expanded="false" signature="189:195" placeholder=" }" />
+            <marker date="1457359165418" expanded="false" signature="221:231" placeholder=" { " />
+            <marker date="1457359165418" expanded="false" signature="242:248" placeholder=" }" />
+            <marker date="1457359165418" expanded="false" signature="276:286" placeholder=" { " />
+            <marker date="1457359165418" expanded="false" signature="297:303" placeholder=" }" />
+            <marker date="1457359165418" expanded="false" signature="343:353" placeholder=" { " />
+            <marker date="1457359165418" expanded="false" signature="396:402" placeholder=" }" />
+            <marker date="1457359165418" expanded="false" signature="444:454" placeholder=" { " />
+            <marker date="1457359165418" expanded="false" signature="488:494" placeholder=" }" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Cube.java">
+    <entry file="file://$PROJECT_DIR$/src/Circle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8333333">
-          <caret line="22" column="4" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="4" />
-          <folding />
+        <state vertical-scroll-proportion="0.23448277">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding>
+            <marker date="1457359426369" expanded="true" signature="0:44" placeholder="/**...*/" />
+            <marker date="1457359426369" expanded="false" signature="120:131" placeholder=" { " />
+            <marker date="1457359426369" expanded="false" signature="152:158" placeholder=" }" />
+            <marker date="1457359426369" expanded="false" signature="186:196" placeholder=" { " />
+            <marker date="1457359426369" expanded="false" signature="207:213" placeholder=" }" />
+            <marker date="1457359426369" expanded="true" signature="254:299" placeholder="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Sphere.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5833333">
-          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
+        <state vertical-scroll-proportion="0.08793104">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+          <folding>
+            <marker date="1457356617581" expanded="true" signature="0:41" placeholder="/**...*/" />
+            <marker date="1457356617581" expanded="false" signature="122:133" placeholder=" { " />
+            <marker date="1457356617581" expanded="false" signature="157:163" placeholder=" }" />
+            <marker date="1457356617581" expanded="false" signature="191:202" placeholder=" { " />
+            <marker date="1457356617581" expanded="false" signature="213:219" placeholder=" }" />
+            <marker date="1457356617581" expanded="false" signature="259:270" placeholder=" { " />
+            <marker date="1457356617581" expanded="false" signature="313:319" placeholder=" }" />
+            <marker date="1457356617581" expanded="false" signature="361:372" placeholder=" { " />
+            <marker date="1457356617581" expanded="false" signature="419:425" placeholder=" }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Cube.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.41034484">
+          <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+          <folding>
+            <marker date="1457362286142" expanded="true" signature="23:64" placeholder="/**...*/" />
+            <marker date="1457362286142" expanded="false" signature="141:151" placeholder=" { " />
+            <marker date="1457362286142" expanded="false" signature="173:179" placeholder=" }" />
+            <marker date="1457362286142" expanded="false" signature="207:217" placeholder=" { " />
+            <marker date="1457362286142" expanded="false" signature="228:234" placeholder=" }" />
+            <marker date="1457362286142" expanded="true" signature="274:306" placeholder="{...}" />
+            <marker date="1457362286142" expanded="false" signature="349:359" placeholder=" { " />
+            <marker date="1457362286142" expanded="false" signature="387:393" placeholder=" }" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/TwoDimensional.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.76632303">
-          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.79137933">
+          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
           <folding>
-            <marker date="1457346047089" expanded="true" signature="0:44" placeholder="/**...*/" />
-            <marker date="1457346047089" expanded="true" signature="199:247" placeholder="{...}" />
-            <marker date="1457346047089" expanded="true" signature="308:376" placeholder="{...}" />
-            <marker date="1457346047089" expanded="false" signature="399:410" placeholder=" { " />
-            <marker date="1457346047089" expanded="false" signature="419:425" placeholder=" }" />
-            <marker date="1457346047089" expanded="false" signature="448:459" placeholder=" { " />
-            <marker date="1457346047089" expanded="false" signature="468:474" placeholder=" }" />
-            <marker date="1457346047089" expanded="true" signature="515:549" placeholder="{...}" />
-            <marker date="1457346047089" expanded="false" signature="602:613" placeholder=" { " />
-            <marker date="1457346047089" expanded="false" signature="625:631" placeholder=" }" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Area.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.116838485">
-          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="18" />
-          <folding>
-            <marker date="1457346560143" expanded="true" signature="0:41" placeholder="/**...*/" />
+            <marker date="1457362512179" expanded="true" signature="0:44" placeholder="/**...*/" />
+            <marker date="1457362512179" expanded="true" signature="183:231" placeholder="{...}" />
+            <marker date="1457362512179" expanded="true" signature="292:360" placeholder="{...}" />
+            <marker date="1457362512179" expanded="false" signature="383:394" placeholder=" { " />
+            <marker date="1457362512179" expanded="false" signature="403:409" placeholder=" }" />
+            <marker date="1457362512179" expanded="false" signature="432:443" placeholder=" { " />
+            <marker date="1457362512179" expanded="false" signature="452:458" placeholder=" }" />
+            <marker date="1457362512179" expanded="true" signature="499:533" placeholder="{...}" />
           </folding>
         </state>
       </provider>
@@ -738,205 +821,64 @@
     <entry file="file://$PROJECT_DIR$/src/Shape.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.29310346">
-          <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
           <folding>
-            <marker date="1457346664880" expanded="true" signature="0:44" placeholder="/**...*/" />
-            <marker date="1457346664880" expanded="false" signature="152:162" placeholder=" { " />
-            <marker date="1457346664880" expanded="false" signature="184:190" placeholder=" }" />
-            <marker date="1457346664880" expanded="false" signature="221:231" placeholder=" { " />
-            <marker date="1457346664880" expanded="false" signature="248:254" placeholder=" }" />
-            <marker date="1457346664880" expanded="true" signature="293:304" placeholder=" { " />
-            <marker date="1457346664880" expanded="true" signature="317:323" placeholder=" }" />
-            <marker date="1457346664880" expanded="true" signature="365:376" placeholder=" { " />
-            <marker date="1457346664880" expanded="true" signature="389:395" placeholder=" }" />
-            <marker date="1457346664880" expanded="false" signature="432:443" placeholder=" { " />
-            <marker date="1457346664880" expanded="false" signature="452:458" placeholder=" }" />
-            <marker date="1457346664880" expanded="false" signature="500:511" placeholder=" { " />
-            <marker date="1457346664880" expanded="false" signature="520:526" placeholder=" }" />
+            <marker date="1457363581469" expanded="true" signature="0:44" placeholder="/**...*/" />
+            <marker date="1457363581469" expanded="false" signature="128:139" placeholder=" { " />
+            <marker date="1457363581469" expanded="false" signature="161:167" placeholder=" }" />
+            <marker date="1457363581469" expanded="false" signature="193:204" placeholder=" { " />
+            <marker date="1457363581469" expanded="false" signature="221:227" placeholder=" }" />
+            <marker date="1457363581469" expanded="true" signature="253:264" placeholder=" { " />
+            <marker date="1457363581469" expanded="true" signature="273:279" placeholder=" }" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ThreeDimensional.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.72680414">
-          <caret line="47" column="0" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+        <state vertical-scroll-proportion="-0.08448276">
+          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="20" />
           <folding>
-            <marker date="1457346047079" expanded="true" signature="0:44" placeholder="/**...*/" />
-            <marker date="1457346047079" expanded="true" signature="227:275" placeholder="{...}" />
-            <marker date="1457346047079" expanded="true" signature="338:406" placeholder="{...}" />
-            <marker date="1457346047079" expanded="true" signature="479:567" placeholder="{...}" />
-            <marker date="1457346047079" expanded="false" signature="590:600" placeholder=" { " />
-            <marker date="1457346047079" expanded="false" signature="609:615" placeholder=" }" />
-            <marker date="1457346047079" expanded="false" signature="638:648" placeholder=" { " />
-            <marker date="1457346047079" expanded="false" signature="657:663" placeholder=" }" />
-            <marker date="1457346047079" expanded="false" signature="686:696" placeholder=" { " />
-            <marker date="1457346047079" expanded="false" signature="705:711" placeholder=" }" />
-            <marker date="1457346047079" expanded="false" signature="738:749" placeholder=" { " />
-            <marker date="1457346047079" expanded="false" signature="765:771" placeholder=" }" />
-            <marker date="1457346047079" expanded="false" signature="800:811" placeholder=" { " />
-            <marker date="1457346047079" expanded="false" signature="832:838" placeholder=" }" />
-            <marker date="1457346047079" expanded="false" signature="893:904" placeholder=" { " />
-            <marker date="1457346047079" expanded="false" signature="916:922" placeholder=" }" />
+            <marker date="1457363581479" expanded="true" signature="0:44" placeholder="/**...*/" />
+            <marker date="1457363581479" expanded="true" signature="209:257" placeholder="{...}" />
+            <marker date="1457363581479" expanded="true" signature="320:388" placeholder="{...}" />
+            <marker date="1457363581479" expanded="true" signature="461:549" placeholder="{...}" />
+            <marker date="1457363581479" expanded="false" signature="572:582" placeholder=" { " />
+            <marker date="1457363581479" expanded="false" signature="591:597" placeholder=" }" />
+            <marker date="1457363581479" expanded="false" signature="620:630" placeholder=" { " />
+            <marker date="1457363581479" expanded="false" signature="639:645" placeholder=" }" />
+            <marker date="1457363581479" expanded="false" signature="668:678" placeholder=" { " />
+            <marker date="1457363581479" expanded="false" signature="687:693" placeholder=" }" />
+            <marker date="1457363581479" expanded="true" signature="733:744" placeholder=" { " />
+            <marker date="1457363581479" expanded="true" signature="760:766" placeholder=" }" />
+            <marker date="1457363581479" expanded="false" signature="794:805" placeholder=" { " />
+            <marker date="1457363581479" expanded="false" signature="826:832" placeholder=" }" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Triangle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.087628864">
+        <state vertical-scroll-proportion="0.08793104">
           <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
           <folding>
-            <marker date="1457345210489" expanded="true" signature="0:44" placeholder="/**...*/" />
-            <marker date="1457345210489" expanded="false" signature="140:150" placeholder=" { " />
-            <marker date="1457345210489" expanded="false" signature="180:186" placeholder=" }" />
-            <marker date="1457345210489" expanded="true" signature="212:225" placeholder="{...}" />
-            <marker date="1457345210489" expanded="true" signature="253:266" placeholder="{...}" />
-            <marker date="1457345210489" expanded="true" signature="306:335" placeholder="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Volume.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.116838485">
-          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-          <folding>
-            <marker date="1457346850848" expanded="true" signature="0:44" placeholder="/**...*/" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Square.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.087628864">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-          <folding>
-            <marker date="1457345210455" expanded="true" signature="0:44" placeholder="/**...*/" />
-            <marker date="1457345210455" expanded="false" signature="123:133" placeholder=" { " />
-            <marker date="1457345210455" expanded="false" signature="158:164" placeholder=" }" />
-            <marker date="1457345210455" expanded="false" signature="192:202" placeholder=" { " />
-            <marker date="1457345210455" expanded="false" signature="213:219" placeholder=" }" />
-            <marker date="1457345210455" expanded="false" signature="259:269" placeholder=" { " />
-            <marker date="1457345210455" expanded="false" signature="294:300" placeholder=" }" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tetrahedron.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.46735394">
-          <caret line="24" column="43" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="43" />
-          <folding>
-            <marker date="1457346812262" expanded="true" signature="0:41" placeholder="/**...*/" />
-            <marker date="1457346812262" expanded="false" signature="146:156" placeholder=" { " />
-            <marker date="1457346812262" expanded="false" signature="189:195" placeholder=" }" />
-            <marker date="1457346812262" expanded="false" signature="221:231" placeholder=" { " />
-            <marker date="1457346812262" expanded="false" signature="242:248" placeholder=" }" />
-            <marker date="1457346812262" expanded="false" signature="276:286" placeholder=" { " />
-            <marker date="1457346812262" expanded="false" signature="297:303" placeholder=" }" />
-            <marker date="1457346812262" expanded="false" signature="343:353" placeholder=" { " />
-            <marker date="1457346812262" expanded="false" signature="396:402" placeholder=" }" />
-            <marker date="1457346812262" expanded="true" signature="444:454" placeholder=" { " />
-            <marker date="1457346812262" expanded="true" signature="490:496" placeholder=" }" />
+            <marker date="1457356617588" expanded="true" signature="0:44" placeholder="/**...*/" />
+            <marker date="1457356617588" expanded="false" signature="140:150" placeholder=" { " />
+            <marker date="1457356617588" expanded="false" signature="180:186" placeholder=" }" />
+            <marker date="1457356617588" expanded="true" signature="212:225" placeholder="{...}" />
+            <marker date="1457356617588" expanded="true" signature="253:266" placeholder="{...}" />
+            <marker date="1457356617588" expanded="true" signature="306:335" placeholder="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/TestShape.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6448276">
-          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.87931037">
+          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>Java_Shape</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>
