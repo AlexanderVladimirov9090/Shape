@@ -2,24 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dabab818-541a-4d73-89a7-6ec0b9b3f2ba" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProjectShape.iml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Area.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Volume.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Circle.java" afterPath="$PROJECT_DIR$/src/Circle.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Cube.java" afterPath="$PROJECT_DIR$/src/Cube.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Shape.java" afterPath="$PROJECT_DIR$/src/Shape.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TestShape.java" afterPath="$PROJECT_DIR$/src/TestShape.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Tetrahedron.java" afterPath="$PROJECT_DIR$/src/Tetrahedron.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ThreeDimensional.java" afterPath="$PROJECT_DIR$/src/ThreeDimensional.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TwoDimensional.java" afterPath="$PROJECT_DIR$/src/TwoDimensional.java" />
     </list>
     <ignored path="ProjectShape.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -62,6 +45,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Alexander Vladimirov" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
@@ -620,12 +608,19 @@
       <updated>1457356690814</updated>
       <workItem from="1457356693738" duration="1923000" />
       <workItem from="1457359004267" duration="1558000" />
-      <workItem from="1457362146746" duration="1511000" />
+      <workItem from="1457362146746" duration="1566000" />
     </task>
+    <task id="LOCAL-00001" summary="Ready">
+      <created>1457363685889</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1457363685889</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4992000" />
+    <option name="totallyTimeSpent" value="5047000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
@@ -635,9 +630,9 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298731" sideWeight="0.4935275" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3298731" sideWeight="0.50323623" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3298731" sideWeight="0.50647247" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3298731" sideWeight="0.49676377" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3298731" sideWeight="0.4935275" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298731" sideWeight="0.487055" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -666,6 +661,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Ready" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ready" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
