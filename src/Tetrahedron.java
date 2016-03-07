@@ -22,6 +22,6 @@ public class Tetrahedron extends ThreeDimensional {
 
     @Override
     public double volume(){
-        return (1/3)*Math.pow(base(),2)*height();
+        return (1/3)*base()*base()*height();
     }
 }

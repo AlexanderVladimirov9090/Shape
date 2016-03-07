@@ -1,7 +1,7 @@
 /**
  * Created by putkanka on 06-Mar-16.
  */
-public class TwoDimensional extends Shape {
+public class TwoDimensional extends Shape implements Area {
     private double x;
     private double y;
 
@@ -16,16 +16,17 @@ public class TwoDimensional extends Shape {
         this.y = y;
     }
 
-    public double x(){
+    public double x() {
         return x;
     }
 
-    public double y(){
+    public double y() {
         return y;
     }
 
     @Override
-    public double area() { return x()*y();
+    public double area() {
+        return x() * y();
 
     }
 
@@ -34,8 +35,4 @@ public class TwoDimensional extends Shape {
         return true;
     }
 
-    @Override
-    public boolean isThreeDimensional() {
-        return false;
-    }
 }

@@ -1,7 +1,7 @@
 /**
  * Created by putkanka on 06-Mar-16.
  */
-public class Shape implements Calculate {
+public class Shape implements Area, Volume {
     protected String shapeType;
 
     public Shape(String type){
@@ -12,8 +12,15 @@ public class Shape implements Calculate {
         return shapeType;
     }
 
+    public boolean isTwoDimensional() {
+        return false;
+    }
 
-    @Override
+
+    public boolean isThreeDimensional() {
+        return false;
+    }
+  @Override
     public double area() {
         return 0;
     }
@@ -22,14 +29,6 @@ public class Shape implements Calculate {
     public double volume() {
         return 0;
     }
-
-    @Override
-    public boolean isTwoDimensional() {
-        return false;
-    }
-
-    @Override
-    public boolean isThreeDimensional() {
-        return false;
-    }
 }
+
+

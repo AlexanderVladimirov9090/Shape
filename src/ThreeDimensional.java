@@ -1,7 +1,7 @@
 /**
  * Created by putkanka on 06-Mar-16.
  */
-public class ThreeDimensional extends Shape {
+public class ThreeDimensional extends Shape implements Volume {
     private double x;
     private double y;
     private double z;
@@ -36,19 +36,14 @@ public class ThreeDimensional extends Shape {
         return z;
     }
 
-    @Override
+
     public double area() {
         return x()* y();
     }
 
-    @Override
+
     public double volume() {
         return x()* y()* z();
-    }
-
-    @Override
-    public boolean isTwoDimensional() {
-        return false;
     }
 
     @Override
