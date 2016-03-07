@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f79120e-b3b4-4ee6-a96b-1a2301b0903b" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/README.m" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Java_Shape/Shape.class" afterPath="$PROJECT_DIR$/out/production/Java_Shape/Shape.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Java_Shape/TestShape.class" afterPath="$PROJECT_DIR$/out/production/Java_Shape/TestShape.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Java_Shape/ThreeDimensional.class" afterPath="$PROJECT_DIR$/out/production/Java_Shape/ThreeDimensional.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Java_Shape/TwoDimensional.class" afterPath="$PROJECT_DIR$/out/production/Java_Shape/TwoDimensional.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Area.java" afterPath="$PROJECT_DIR$/src/Area.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Shape.java" afterPath="$PROJECT_DIR$/src/Shape.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TestShape.java" afterPath="$PROJECT_DIR$/src/TestShape.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Tetrahedron.java" afterPath="$PROJECT_DIR$/src/Tetrahedron.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ThreeDimensional.java" afterPath="$PROJECT_DIR$/src/ThreeDimensional.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TwoDimensional.java" afterPath="$PROJECT_DIR$/src/TwoDimensional.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Calculate.java" afterPath="$PROJECT_DIR$/src/Volume.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Java_Shape/Tetrahedron.class" afterPath="$PROJECT_DIR$/out/production/Java_Shape/Tetrahedron.class" />
     </list>
     <ignored path="Java_Shape.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -40,7 +28,7 @@
       <file leaf-file-name="TestShape.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/TestShape.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6426117">
+            <state vertical-scroll-proportion="0.6448276">
               <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
               <folding />
             </state>
@@ -610,7 +598,7 @@
       <created>1457282786457</created>
       <option name="number" value="Default" />
       <updated>1457282786457</updated>
-      <workItem from="1457345397977" duration="1448000" />
+      <workItem from="1457345397977" duration="1495000" />
     </task>
     <task id="LOCAL-00001" summary="Area Inteface">
       <created>1457343338683</created>
@@ -618,15 +606,21 @@
       <option name="project" value="LOCAL" />
       <updated>1457343338683</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Area + Volume Interface">
+      <created>1457346890716</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1457346890716</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1448000" />
+    <option name="totallyTimeSpent" value="1495000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -634,8 +628,8 @@
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32868218" sideWeight="0.50294983" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32756633" sideWeight="0.49705014" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3298731" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32756633" sideWeight="0.49705014" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -666,7 +660,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Area Inteface" />
-    <option name="LAST_COMMIT_MESSAGE" value="Area Inteface" />
+    <MESSAGE value="Area + Volume Interface" />
+    <option name="LAST_COMMIT_MESSAGE" value="Area + Volume Interface" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -850,7 +845,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/TestShape.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6426117">
+        <state vertical-scroll-proportion="0.6448276">
           <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding />
         </state>
