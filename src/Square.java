@@ -1,18 +1,16 @@
 /**
- * Created by putkanka on 06-Mar-16.
+ * Created on 06-Mar-16.
+ * @author Alexander Vladimirov
+ *         <alexandervladimirov1902@gmail.com>
  */
 public class Square extends TwoDimensional {
 
     public Square(double length){
-        super(length , "Square");
-    }
-
-    public double length(){
-        return x();
+        super(length,length , "Square");
     }
 
     @Override
     public double area(){
-        return length()*length();
+        return x*x;
     }
 }

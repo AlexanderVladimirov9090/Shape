@@ -1,5 +1,7 @@
 /**
- * Created by putkanka on 06-Mar-16.
+ * Created on 06-Mar-16.
+ * @author Alexander Vladimirov
+ *         <alexandervladimirov1902@gmail.com>
  */
 public class Shape {
     protected String shapeType;

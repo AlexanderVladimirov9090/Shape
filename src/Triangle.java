@@ -1,5 +1,7 @@
 /**
- * Created by putkanka on 06-Mar-16.
+ * Created on 06-Mar-16.
+ * @author Alexander Vladimirov
+ *         <alexandervladimirov1902@gmail.com>
  */
 public class Triangle extends TwoDimensional{
 
@@ -7,11 +9,7 @@ public class Triangle extends TwoDimensional{
         super(base,height,"Triangle");
     }
 
-    public double base(){return x();}
-
-    public double height(){return x();}
-
     @Override
-    public double area(){return (height()*base())/2;}
+    public double area(){return (this.x*this.y)/2;}
 
 }
